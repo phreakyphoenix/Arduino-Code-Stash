@@ -12,5 +12,5 @@ Some of the projects include:
 7. Multiple communication using hardware and Software Serial.
 8. A chat app using bluetooth with one master and multiple slave devices.
 9. Controlling linear actuators and much more !!a
-10. As part of SRM Team Robocon, manual and auto-bot design was tried and tested and final bots were presented at the ABU Robocon 2018. :confetti-ball:
+10. As part of SRM Team Robocon, manual and auto-bot design was tried and tested and final bots were presented at the ABU Robocon 2018. :confetti_ball:
 
